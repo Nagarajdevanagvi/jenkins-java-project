@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARAVIND IS 420</h2>
+      <h2> New one</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
